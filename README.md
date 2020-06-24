@@ -1,6 +1,5 @@
 # Employment Materials
- For new graduate
- 欢迎交流,需要完整笔记可以加我qq2044837029
+ 已上传了个人关于非技术面问题的回答总结,需要完整笔记可以加我qq2044837029
 
 ### Part of Screenshots
 
