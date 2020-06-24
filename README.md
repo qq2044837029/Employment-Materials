@@ -7,11 +7,10 @@
 
 ![alt text](http://m.qpic.cn/psc?/V522xjmI0d2HM13WIssd38Rhkq27pqTm/45NBuzDIW489QBoVep5mcUi*Urme0CXqyUv5mOWhCqlc9w76YKJimzA7D3Hq9Apz4GsfJxYHQm*KDrcpyjTwhEgwIpIndevLBIe8wL4e64A!/b&bo=YAOxAwAAAAADJ9M!&rf=viewer_4)
 
-* Sensor 
 
-![alt text](http://m.qpic.cn/psc?/V522xjmI0d2HM13WIssd38Rhkq27pqTm/45NBuzDIW489QBoVep5mcevRq1MTVbCGwGj.d1jUXiDt045g4KS99E6hjxJHZN65qTQFMsqCC91R1MVzceGHJGUq6bj9XGGUeXlxtDircbI!/b&bo=6gNKAwAAAAADN7I!&rf=viewer_4)
-
-* Origin Data Series from MATLAB Android Sensor
+<div>    
+<img src="http://m.qpic.cn/psc?/V522xjmI0d2HM13WIssd38Rhkq27pqTm/45NBuzDIW489QBoVep5mcevRq1MTVbCGwGj.d1jUXiDt045g4KS99E6hjxJHZN65qTQFMsqCC91R1MVzceGHJGUq6bj9XGGUeXlxtDircbI!/b&bo=6gNKAwAAAAADN7I!&rf=viewer_4" width="300" height="300" />
+</div>  
 
 ![alt text](https://github.com/wuhaoqiu/engr597-stable/blob/Linux-Version/screenshots/original.png)
 
