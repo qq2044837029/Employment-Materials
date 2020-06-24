@@ -1,9 +1,13 @@
 # Employment Materials
- 已上传了个人关于非技术面问题的回答总结,需要完整笔记可以加我qq2044837029
+ 已上传了个人关于非技术面问题的回答总结
 
 ### Part of Screenshots
 
 * 笔记介绍
+
+如果图片裂开,可以看我qq空间相册,可以点击这里[这里](https://user.qzone.qq.com/2044837029/infocenter?_t_=0.8033851116161785)
+
+完整笔记可以加我qq2044837029
 
 <div>    
 <img src="http://m.qpic.cn/psc?/V522xjmI0d2HM13WIssd38Rhkq27pqTm/45NBuzDIW489QBoVep5mcUi*Urme0CXqyUv5mOWhCqlc9w76YKJimzA7D3Hq9Apz4GsfJxYHQm*KDrcpyjTwhEgwIpIndevLBIe8wL4e64A!/b&bo=YAOxAwAAAAADJ9M!&rf=viewer_4" width="450" height="450" />
