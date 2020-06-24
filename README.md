@@ -1,51 +1,31 @@
 # Employment Materials
  For new graduate
+ 欢迎交流,需要完整笔记可以加我qq2044837029
 
 ### Part of Screenshots
 
 * 笔记介绍
 
-![alt text](http://m.qpic.cn/psc?/V522xjmI0d2HM13WIssd38Rhkq27pqTm/45NBuzDIW489QBoVep5mcUi*Urme0CXqyUv5mOWhCqlc9w76YKJimzA7D3Hq9Apz4GsfJxYHQm*KDrcpyjTwhEgwIpIndevLBIe8wL4e64A!/b&bo=YAOxAwAAAAADJ9M!&rf=viewer_4)
-
-
 <div>    
-<img src="http://m.qpic.cn/psc?/V522xjmI0d2HM13WIssd38Rhkq27pqTm/45NBuzDIW489QBoVep5mcevRq1MTVbCGwGj.d1jUXiDt045g4KS99E6hjxJHZN65qTQFMsqCC91R1MVzceGHJGUq6bj9XGGUeXlxtDircbI!/b&bo=6gNKAwAAAAADN7I!&rf=viewer_4" width="300" height="300" />
+<img src="http://m.qpic.cn/psc?/V522xjmI0d2HM13WIssd38Rhkq27pqTm/45NBuzDIW489QBoVep5mcUi*Urme0CXqyUv5mOWhCqlc9w76YKJimzA7D3Hq9Apz4GsfJxYHQm*KDrcpyjTwhEgwIpIndevLBIe8wL4e64A!/b&bo=YAOxAwAAAAADJ9M!&rf=viewer_4" width="450" height="450" />
 </div>  
 
-![alt text](https://github.com/wuhaoqiu/engr597-stable/blob/Linux-Version/screenshots/original.png)
+<div>    
+<img src="http://m.qpic.cn/psc?/V522xjmI0d2HM13WIssd38Rhkq27pqTm/45NBuzDIW489QBoVep5mcevRq1MTVbCGwGj.d1jUXiDt045g4KS99E6hjxJHZN65qTQFMsqCC91R1MVzceGHJGUq6bj9XGGUeXlxtDircbI!/b&bo=6gNKAwAAAAADN7I!&rf=viewer_4" width="450" height="450" />
+</div>  
 
-* Curves after Smoothing, Normalization and Segmentation
+<div>    
+<img src="http://m.qpic.cn/psc?/V522xjmI0d2HM13WIssd38Rhkq27pqTm/45NBuzDIW489QBoVep5mcevRq1MTVbCGwGj.d1jUXiBIS9DXY*OzTQ1jIlOkUlUa4neQRtsDnpGkQGoMu3Po1kd2o1bKsMpArw3g6KZ9mok!/b&bo=1wUgAwAAAAADJ*M!&rf=viewer_4" width="450" height="450" />
+</div> 
 
-![alt text](https://github.com/wuhaoqiu/engr597-stable/blob/Linux-Version/screenshots/segmented.png)
+<div>    
+<img src="http://m.qpic.cn/psc?/V522xjmI0d2HM13WIssd38Rhkq27pqTm/ruAMsa53pVQWN7FLK88i5tuX44MHRcxvuYQx2d7mJFXP0gwP6rC40lhJM2bDQP0XLxc049*ZIXkWVw.eTpTGGxxswEzq7wJVuZX92Usr*Ws!/b&bo=EwOCAgAAAAADB7I!&rf=viewer_4" width="450" height="450" />
+</div> 
 
-* Main Page
+<div>    
+<img src="http://m.qpic.cn/psc?/V522xjmI0d2HM13WIssd38Rhkq27pqTm/45NBuzDIW489QBoVep5mcTwI6EoEdGe9BoEVwUA4TSHUovhcqJnn2rVETYi.dx7ot5pK2EN5HEC7cFae7FWP2xmwhTlyPN0ve1Xb6q1rIIU!/b&bo=vQOqAgAAAAADNwQ!&rf=viewer_4" width="450" height="450" />
+</div> 
 
-![alt text](https://github.com/wuhaoqiu/engr597-stable/blob/Linux-Version/screenshots/main_page.png)
-
-* Real-time Prediction and RNN Architecture
-
-![alt text](https://github.com/wuhaoqiu/engr597-stable/blob/Linux-Version/screenshots/realtime_prediction.png)
-
-![alt text](https://github.com/wuhaoqiu/engr597-stable/blob/Linux-Version/screenshots/model_archi.png)
-
-* Chatbot
-
-![alt text](https://github.com/wuhaoqiu/engr597-stable/blob/Linux-Version/screenshots/chatbot.png)
-
-* Articles
-
-![alt text](https://github.com/wuhaoqiu/engr597-stable/blob/Linux-Version/screenshots/articles.png)
-
-* Image Detail 
-
-![alt text](https://github.com/wuhaoqiu/engr597-stable/blob/Linux-Version/screenshots/image_detail.png)
-
-### How to use this program:
-* Fork it.
-* Install all necessary Software.
-* Create virtule environment and then install all dependecies in requirements.txt
-* Finally
-![alt text](https://github.com/wuhaoqiu/engr597-stable/blob/Linux-Version/screenshots/start.png)
 
 
 
